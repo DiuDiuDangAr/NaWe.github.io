@@ -20,6 +20,8 @@
       
         <tags>
             
+            <tag> 美食推薦 </tag>
+            
             <tag> 美食 </tag>
             
             <tag> Korea </tag>
@@ -33,8 +35,6 @@
             <tag> 推薦 </tag>
             
             <tag> 大邱旅行 </tag>
-            
-            <tag> 美食推薦 </tag>
             
             <tag> 韓國特色 </tag>
             
@@ -75,8 +75,6 @@
       
         <tags>
             
-            <tag> 美食推薦 </tag>
-            
             <tag> 中國 </tag>
             
             <tag> 廈門 </tag>
@@ -92,6 +90,8 @@
             <tag> 台北松山機場 </tag>
             
             <tag> 廈門旅遊 </tag>
+            
+            <tag> 美食推薦 </tag>
             
             <tag> 打卡景點 </tag>
             
@@ -478,6 +478,8 @@
             
             <tag> southamerica </tag>
             
+            <tag> USA </tag>
+            
             <tag> 古文明 </tag>
             
             <tag> 印加帝國 </tag>
@@ -491,8 +493,6 @@
             <tag> 巴拿馬運河 </tag>
             
             <tag> 運河 </tag>
-            
-            <tag> USA </tag>
             
             <tag> 中美洲 </tag>
             
@@ -545,6 +545,8 @@
             
             <tag> southamerica </tag>
             
+            <tag> USA </tag>
+            
             <tag> 古文明 </tag>
             
             <tag> 印加帝國 </tag>
@@ -558,8 +560,6 @@
             <tag> 巴拿馬運河 </tag>
             
             <tag> 運河 </tag>
-            
-            <tag> USA </tag>
             
             <tag> 中美洲 </tag>
             
@@ -604,6 +604,8 @@
             
             <tag> southamerica </tag>
             
+            <tag> USA </tag>
+            
             <tag> 古文明 </tag>
             
             <tag> 印加帝國 </tag>
@@ -621,8 +623,6 @@
             <tag> 巴拿馬運河 </tag>
             
             <tag> 運河 </tag>
-            
-            <tag> USA </tag>
             
             <tag> 中美洲 </tag>
             
@@ -950,9 +950,9 @@
             
             <tag> Arequipa </tag>
             
-            <tag> 阿雷基帕 </tag>
-            
             <tag> SantaCatalina </tag>
+            
+            <tag> 阿雷基帕 </tag>
             
             <tag> 修道院 </tag>
             
@@ -1915,13 +1915,13 @@
             
             <tag> 韓國 </tag>
             
-            <tag> 大邱 </tag>
-            
-            <tag> 推薦 </tag>
-            
             <tag> Hotel </tag>
             
             <tag> Airbnb </tag>
+            
+            <tag> 大邱 </tag>
+            
+            <tag> 推薦 </tag>
             
         </tags>
       
