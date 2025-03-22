@@ -95,8 +95,6 @@
             
             <tag> 美食推薦 </tag>
             
-            <tag> 美食 </tag>
-            
             <tag> Korea </tag>
             
             <tag> Daegu </tag>
@@ -106,6 +104,8 @@
             <tag> 大邱 </tag>
             
             <tag> 推薦 </tag>
+            
+            <tag> 美食 </tag>
             
             <tag> 大邱旅行 </tag>
             
@@ -199,9 +199,15 @@
             
             <tag> southamerica </tag>
             
+            <tag> 瓜地馬拉 </tag>
+            
             <tag> Peru </tag>
             
             <tag> 秘魯 </tag>
+            
+            <tag> Cusco </tag>
+            
+            <tag> 庫斯科 </tag>
             
             <tag> 古文明 </tag>
             
@@ -223,10 +229,6 @@
             
             <tag> 運河 </tag>
             
-            <tag> Cusco </tag>
-            
-            <tag> 庫斯科 </tag>
-            
             <tag> 中南美 </tag>
             
             <tag> LatinAmerica </tag>
@@ -234,8 +236,6 @@
             <tag> 南美 </tag>
             
             <tag> 美國 </tag>
-            
-            <tag> 瓜地馬拉 </tag>
             
         </tags>
       
@@ -264,6 +264,8 @@
             
             <tag> 峇里島 </tag>
             
+            <tag> Bali </tag>
+            
             <tag> 印尼旅遊 </tag>
             
             <tag> 長谷住宿 </tag>
@@ -281,8 +283,6 @@
             <tag> 網美拍照景點 </tag>
             
             <tag> 度假首選 </tag>
-            
-            <tag> Bali </tag>
             
             <tag> Canggu </tag>
             
@@ -331,6 +331,8 @@
             
             <tag> 峇里島 </tag>
             
+            <tag> Bali </tag>
+            
             <tag> 印尼旅遊 </tag>
             
             <tag> 長谷住宿 </tag>
@@ -348,8 +350,6 @@
             <tag> 網美拍照景點 </tag>
             
             <tag> 度假首選 </tag>
-            
-            <tag> Bali </tag>
             
             <tag> Canggu </tag>
             
@@ -394,19 +394,21 @@
       
         <tags>
             
-            <tag> 印尼 </tag>
-            
-            <tag> 峇里島 </tag>
-            
-            <tag> Bali </tag>
+            <tag> 美食 </tag>
             
             <tag> indonesia </tag>
+            
+            <tag> 印尼 </tag>
             
             <tag> ubud </tag>
             
             <tag> 烏布 </tag>
             
             <tag> 印度尼西亞 </tag>
+            
+            <tag> 峇里島 </tag>
+            
+            <tag> Bali </tag>
             
             <tag> Indonesia </tag>
             
@@ -415,8 +417,6 @@
             <tag> 餐廳 </tag>
             
             <tag> restaurant </tag>
-            
-            <tag> 美食 </tag>
             
             <tag> 網美 </tag>
             
@@ -453,19 +453,21 @@
       
         <tags>
             
-            <tag> 印尼 </tag>
-            
-            <tag> 峇里島 </tag>
-            
-            <tag> Bali </tag>
+            <tag> 美食 </tag>
             
             <tag> indonesia </tag>
+            
+            <tag> 印尼 </tag>
             
             <tag> ubud </tag>
             
             <tag> 烏布 </tag>
             
             <tag> 印度尼西亞 </tag>
+            
+            <tag> 峇里島 </tag>
+            
+            <tag> Bali </tag>
             
             <tag> Indonesia </tag>
             
@@ -474,8 +476,6 @@
             <tag> 餐廳 </tag>
             
             <tag> restaurant </tag>
-            
-            <tag> 美食 </tag>
             
             <tag> 網美 </tag>
             
@@ -504,19 +504,19 @@
       
         <tags>
             
-            <tag> 印尼 </tag>
-            
-            <tag> 峇里島 </tag>
-            
-            <tag> Bali </tag>
-            
             <tag> indonesia </tag>
+            
+            <tag> 印尼 </tag>
             
             <tag> ubud </tag>
             
             <tag> 烏布 </tag>
             
             <tag> 印度尼西亞 </tag>
+            
+            <tag> 峇里島 </tag>
+            
+            <tag> Bali </tag>
             
             <tag> Indonesia </tag>
             
@@ -555,6 +555,8 @@
             
             <tag> southamerica </tag>
             
+            <tag> USA </tag>
+            
             <tag> 古文明 </tag>
             
             <tag> 印加帝國 </tag>
@@ -570,8 +572,6 @@
             <tag> 運河 </tag>
             
             <tag> 美國 </tag>
-            
-            <tag> USA </tag>
             
             <tag> 中美洲 </tag>
             
@@ -622,6 +622,8 @@
             
             <tag> southamerica </tag>
             
+            <tag> USA </tag>
+            
             <tag> 古文明 </tag>
             
             <tag> 印加帝國 </tag>
@@ -637,8 +639,6 @@
             <tag> 運河 </tag>
             
             <tag> 美國 </tag>
-            
-            <tag> USA </tag>
             
             <tag> 中美洲 </tag>
             
@@ -681,6 +681,8 @@
             
             <tag> southamerica </tag>
             
+            <tag> USA </tag>
+            
             <tag> 古文明 </tag>
             
             <tag> 印加帝國 </tag>
@@ -700,8 +702,6 @@
             <tag> 運河 </tag>
             
             <tag> 美國 </tag>
-            
-            <tag> USA </tag>
             
             <tag> 中美洲 </tag>
             
@@ -789,13 +789,13 @@
             
             <tag> Poland </tag>
             
-            <tag> Zakopane </tag>
-            
-            <tag> Ski </tag>
-            
             <tag> Europe </tag>
             
             <tag> 波蘭 </tag>
+            
+            <tag> Zakopane </tag>
+            
+            <tag> Ski </tag>
             
             <tag> 札科帕內 </tag>
             
@@ -834,6 +834,10 @@
             
             <tag> 秘魯 </tag>
             
+            <tag> Cusco </tag>
+            
+            <tag> 庫斯科 </tag>
+            
             <tag> 古文明 </tag>
             
             <tag> 印加帝國 </tag>
@@ -853,10 +857,6 @@
             <tag> 巴拿馬運河 </tag>
             
             <tag> 運河 </tag>
-            
-            <tag> Cusco </tag>
-            
-            <tag> 庫斯科 </tag>
             
             <tag> 中南美 </tag>
             
@@ -1021,13 +1021,13 @@
             
             <tag> church </tag>
             
+            <tag> Arequipa </tag>
+            
             <tag> Lima </tag>
             
             <tag> 利馬 </tag>
             
             <tag> 阿雷基帕 </tag>
-            
-            <tag> Arequipa </tag>
             
             <tag> SantaCatalina </tag>
             
@@ -1080,9 +1080,9 @@
             
             <tag> WondersofTheWorld </tag>
             
-            <tag> 阿雷基帕 </tag>
-            
             <tag> Arequipa </tag>
+            
+            <tag> 阿雷基帕 </tag>
             
             <tag> Rutadelsillar </tag>
             
@@ -1229,8 +1229,6 @@
             
             <tag> WondersofTheWorld </tag>
             
-            <tag> Puno </tag>
-            
             <tag> 普諾 </tag>
             
             <tag> Titicaca </tag>
@@ -1238,6 +1236,8 @@
             <tag> 的的喀喀湖 </tag>
             
             <tag> Lake </tag>
+            
+            <tag> Puno </tag>
             
         </tags>
       
@@ -1282,8 +1282,6 @@
             
             <tag> WondersofTheWorld </tag>
             
-            <tag> Puno </tag>
-            
             <tag> 普諾 </tag>
             
             <tag> Titicaca </tag>
@@ -1291,6 +1289,8 @@
             <tag> 的的喀喀湖 </tag>
             
             <tag> Lake </tag>
+            
+            <tag> Puno </tag>
             
         </tags>
       
@@ -1360,19 +1360,19 @@
             
             <tag> 秘魯 </tag>
             
-            <tag> 古文明 </tag>
-            
-            <tag> 印加帝國 </tag>
-            
-            <tag> 教堂 </tag>
-            
-            <tag> church </tag>
-            
             <tag> Cusco </tag>
             
             <tag> 庫斯科 </tag>
             
+            <tag> 古文明 </tag>
+            
+            <tag> 印加帝國 </tag>
+            
             <tag> 馬丘比丘 </tag>
+            
+            <tag> 教堂 </tag>
+            
+            <tag> church </tag>
             
             <tag> Machupicchu </tag>
             
@@ -1411,13 +1411,13 @@
             
             <tag> 秘魯 </tag>
             
-            <tag> 古文明 </tag>
-            
-            <tag> 印加帝國 </tag>
-            
             <tag> Cusco </tag>
             
             <tag> 庫斯科 </tag>
+            
+            <tag> 古文明 </tag>
+            
+            <tag> 印加帝國 </tag>
             
             <tag> 馬丘比丘 </tag>
             
@@ -1466,13 +1466,13 @@
             
             <tag> 秘魯 </tag>
             
-            <tag> 古文明 </tag>
-            
-            <tag> 印加帝國 </tag>
-            
             <tag> Cusco </tag>
             
             <tag> 庫斯科 </tag>
+            
+            <tag> 古文明 </tag>
+            
+            <tag> 印加帝國 </tag>
             
             <tag> 馬丘比丘 </tag>
             
@@ -1521,13 +1521,13 @@
             
             <tag> 秘魯 </tag>
             
-            <tag> 古文明 </tag>
-            
-            <tag> 印加帝國 </tag>
-            
             <tag> Cusco </tag>
             
             <tag> 庫斯科 </tag>
+            
+            <tag> 古文明 </tag>
+            
+            <tag> 印加帝國 </tag>
             
             <tag> 馬丘比丘 </tag>
             
@@ -1609,13 +1609,13 @@
             
             <tag> 秘魯 </tag>
             
-            <tag> 古文明 </tag>
-            
-            <tag> 印加帝國 </tag>
-            
             <tag> Cusco </tag>
             
             <tag> 庫斯科 </tag>
+            
+            <tag> 古文明 </tag>
+            
+            <tag> 印加帝國 </tag>
             
             <tag> 馬丘比丘 </tag>
             
@@ -1650,11 +1650,11 @@
             
             <tag> 秘魯 </tag>
             
-            <tag> 古文明 </tag>
-            
             <tag> Cusco </tag>
             
             <tag> 庫斯科 </tag>
+            
+            <tag> 古文明 </tag>
             
             <tag> 南美 </tag>
             
@@ -1753,9 +1753,9 @@
             
             <tag> southamerica </tag>
             
-            <tag> 瓜地馬拉 </tag>
-            
             <tag> Guatemala </tag>
+            
+            <tag> 瓜地馬拉 </tag>
             
             <tag> 邦交國 </tag>
             
@@ -1821,13 +1821,13 @@
             
             <tag> Poland </tag>
             
-            <tag> Europe </tag>
-            
-            <tag> 波蘭 </tag>
-            
             <tag> Krakow </tag>
             
             <tag> Wieliczka </tag>
+            
+            <tag> Europe </tag>
+            
+            <tag> 波蘭 </tag>
             
             <tag> 克拉克夫 </tag>
             
@@ -1858,9 +1858,9 @@
             
             <tag> southamerica </tag>
             
-            <tag> 瓜地馬拉 </tag>
-            
             <tag> Guatemala </tag>
+            
+            <tag> 瓜地馬拉 </tag>
             
             <tag> Flores </tag>
             
@@ -1893,9 +1893,9 @@
             
             <tag> southamerica </tag>
             
-            <tag> 瓜地馬拉 </tag>
-            
             <tag> Guatemala </tag>
+            
+            <tag> 瓜地馬拉 </tag>
             
             <tag> Antigua </tag>
             
@@ -1926,11 +1926,11 @@
             
             <tag> southamerica </tag>
             
-            <tag> 瓜地馬拉 </tag>
-            
             <tag> USA </tag>
             
             <tag> Guatemala </tag>
+            
+            <tag> 瓜地馬拉 </tag>
             
         </tags>
       
