@@ -641,9 +641,9 @@
       
         <tags>
             
-            <tag> 中國 </tag>
-            
             <tag> Finaland </tag>
+            
+            <tag> 中國 </tag>
             
             <tag> finland </tag>
             
@@ -775,6 +775,8 @@
       
         <tags>
             
+            <tag> 美食 </tag>
+            
             <tag> 美食推薦 </tag>
             
             <tag> Korea </tag>
@@ -786,8 +788,6 @@
             <tag> 大邱 </tag>
             
             <tag> 推薦 </tag>
-            
-            <tag> 美食 </tag>
             
             <tag> 大邱旅行 </tag>
             
@@ -1076,8 +1076,6 @@
       
         <tags>
             
-            <tag> 美食 </tag>
-            
             <tag> indonesia </tag>
             
             <tag> 印尼 </tag>
@@ -1099,6 +1097,8 @@
             <tag> 餐廳 </tag>
             
             <tag> restaurant </tag>
+            
+            <tag> 美食 </tag>
             
             <tag> 網美 </tag>
             
@@ -1135,8 +1135,6 @@
       
         <tags>
             
-            <tag> 美食 </tag>
-            
             <tag> indonesia </tag>
             
             <tag> 印尼 </tag>
@@ -1158,6 +1156,8 @@
             <tag> 餐廳 </tag>
             
             <tag> restaurant </tag>
+            
+            <tag> 美食 </tag>
             
             <tag> 網美 </tag>
             
@@ -1707,9 +1707,9 @@
             
             <tag> 利馬 </tag>
             
-            <tag> 阿雷基帕 </tag>
-            
             <tag> Arequipa </tag>
+            
+            <tag> 阿雷基帕 </tag>
             
             <tag> SantaCatalina </tag>
             
@@ -1762,9 +1762,9 @@
             
             <tag> WondersofTheWorld </tag>
             
-            <tag> 阿雷基帕 </tag>
-            
             <tag> Arequipa </tag>
+            
+            <tag> 阿雷基帕 </tag>
             
             <tag> Rutadelsillar </tag>
             
@@ -2676,11 +2676,11 @@
             
             <tag> 大邱 </tag>
             
+            <tag> 推薦 </tag>
+            
             <tag> Hotel </tag>
             
             <tag> Airbnb </tag>
-            
-            <tag> 推薦 </tag>
             
         </tags>
       
