@@ -1,0 +1,9 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://diudiudangar.github.io/NaWe.github.io/sitemap.xml
+Sitemap: https://diudiudangar.github.io/NaWe.github.io/baidusitemap.xml
+
+# 以下由第四步驟開始尚未完成！
+# https://qmike.top/posts/2a1b5a62
