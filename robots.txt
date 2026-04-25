@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://nawelife.com/sitemap.xml
+Sitemap: https://nawelife.com/baidusitemap.xml
